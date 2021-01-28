@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="easy">This is the easy version of the Naruto Quiz.
+        \n
+        To unlock the pro version of the Naruto Quiz, you have to achieve full score for this Easy Mode of the quiz.
+        \n
+        Do your best. Believe it!</string>
+</resources>
