@@ -1,5 +1,6 @@
 package com.myapplicationdev.android.quizapp;
 
+/**/
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
